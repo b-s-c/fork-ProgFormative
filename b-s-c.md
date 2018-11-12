@@ -3,6 +3,7 @@ i. Interest of content
 *Very good*
 * I found the content to be very interesting. On top of that, it covered a broad range of topics.
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 ii. Consistency and quality of visual presentation
 
@@ -10,12 +11,14 @@ ii. Consistency and quality of visual presentation
 * Apart from the issue with the hamburger menu (pt. iv), the website looks very nice and works great.
 * The "About the author" sections are inconsistent, and vary from page to page.
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 iii. Quality of written presentation
 
 *Very good*
 * As mentioned in pt. i, the content is high-quality and engaging. The layout is very nice, which also contributes to reader engagement.
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 iv. Validity of HTML
 
@@ -32,6 +35,7 @@ iv. Validity of HTML
 	* index.html: 1 warning, 1 error
 	* medical_app.html: 1 warning, 11 errors
 
+-------------------------------------------------------------------------------------------------------------------------------------
 
 v. Evidence of collaboration
 
